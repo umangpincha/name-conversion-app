@@ -12,4 +12,4 @@ Technology Used:
 - JAVASCRIPT
 
 
-Live Demo: [Link](https://faq-app-ineuron.netlify.app/)
+Live Demo: [Link](https://name-conversion.netlify.app/)
